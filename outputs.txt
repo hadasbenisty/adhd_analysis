@@ -1,0 +1,283 @@
+Python 3.8.19 (default, Mar 20 2024, 19:55:45) [MSC v.1916 64 bit (AMD64)]
+Type "copyright", "credits" or "license" for more information.
+
+IPython 8.12.2 -- An enhanced Interactive Python.
+
+Restarting kernel...
+ 
+
+
+
+runfile('C:/Users/hadasbe/Dropbox (Personal)/cstg_psych/MIKA/main_mika.py', wdir='C:/Users/hadasbe/Dropbox (Personal)/cstg_psych/MIKA')
+l1
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+gb
+xgb
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+rf
+loading for ParentActSelfIdea
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:152: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='value', x='num_features', ci='sd', hue='test_type', hue_order=tests,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:152: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='value', x='num_features', ci='sd', hue='test_type', hue_order=tests,
+l1 & 0.60 ($\pm$ 0.05) & 0.39 ($\pm$ 0.39)
+gb & 0.62 ($\pm$ 0.03) & 0.39 ($\pm$ 0.39)
+xgb & 0.58 ($\pm$ 0.03) & 0.32 ($\pm$ 0.32)
+rf & 0.63 ($\pm$ 0.01) & 0.36 ($\pm$ 0.36)
+,l1,gb,xgb,rf
+0,Non- verbal cognitive performance,Non primarily aggressive conduct problems,Non primarily aggressive conduct problems,Non primarily aggressive conduct problems
+1,Verbal cognitive performance,Age,Depression,Depression
+2,Non primarily aggressive conduct problems,Depression,ADHD,Aggresive Conduct Problems
+3,Depression,Inattention,Academic Difficulty,Irritability
+4,Inattention,Aggresive Conduct Problems,Adoptionor or FosterCare,Age
+5,Aggresive Conduct Problems,Non- verbal cognitive performance,Age,Defiance
+6,Social Conflicts,Sleep Prolems,Aggresive Conduct Problems,Hyperactivity and Impulsivity symptoms
+7,Defiance,Defiance,Anxiety,Anxiety
+8,Age,Anxiety,Aggressive marital practices,Family-relationships Difficulties 
+9,Irritability,Hyperactivity and Impulsivity symptoms,Aggressive parenting practices,ADHD
+10,ADHD,Wechsler Full Scale IQ,Child Welfare Services ,Inattention
+11,Academic Difficulty,Somatization,Defiance,Academic Difficulty
+12,Hyperactivity and Impulsivity symptoms,Verbal cognitive performance,Family-relationships Difficulties ,Adoptionor or FosterCare
+13,Family-relationships Difficulties ,Social Withdrawal,Financial problems,Aggressive marital practices
+14,Two-Parent Household,Social Conflicts,Wechsler Full Scale IQ,Aggressive parenting practices
+15,Social Withdrawal,Family-relationships Difficulties ,A history of head concussion ,Child Welfare Services 
+16,Somatization,Child Welfare Services ,Hyperactivity and Impulsivity symptoms,Financial problems
+17,Anxiety,Aggressive parenting practices,Inattention,Wechsler Full Scale IQ
+18,Current stimulant medication use ,School Truancy,Irritability,A history of head concussion 
+19,Sleep Prolems,Irritability,School Truancy,School Truancy
+20,School Truancy,ADHD,Sex,Sex
+21,Sex,Current stimulant medication use ,Sleep Prolems,Sleep Prolems
+22,Aggressive parenting practices,Sex,Social Conflicts,Social Conflicts
+23,Financial problems,Academic Difficulty,Social Withdrawal,Social Withdrawal
+24,Aggressive marital practices,Two-Parent Household,Somatization,Somatization
+25,A history of head concussion ,Adoptionor or FosterCare,Current stimulant medication use ,Current stimulant medication use 
+26,Child Welfare Services ,Aggressive marital practices,Two-Parent Household,Two-Parent Household
+27,Adoptionor or FosterCare,Financial problems,Non- verbal cognitive performance,Non- verbal cognitive performance
+28,Wechsler Full Scale IQ,A history of head concussion ,Verbal cognitive performance,Verbal cognitive performance
+
+l1
+gb
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+xgb
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+rf
+loading for Parent_Reported_Suicidality
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:152: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='value', x='num_features', ci='sd', hue='test_type', hue_order=tests,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:152: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='value', x='num_features', ci='sd', hue='test_type', hue_order=tests,
+l1 & 0.75 ($\pm$ 0.12) & 0.51 ($\pm$ 0.51)
+gb & 0.82 ($\pm$ 0.03) & 0.56 ($\pm$ 0.56)
+xgb & 0.78 ($\pm$ 0.02) & 0.46 ($\pm$ 0.46)
+rf & 0.78 ($\pm$ 0.01) & 0.46 ($\pm$ 0.46)
+,l1,gb,xgb,rf
+0,Non- verbal cognitive performance,Non primarily aggressive conduct problems,Non primarily aggressive conduct problems,Non primarily aggressive conduct problems
+1,Verbal cognitive performance,Aggresive Conduct Problems,Aggresive Conduct Problems,Depression
+2,Aggresive Conduct Problems,Sleep Prolems,Sleep Prolems,Aggresive Conduct Problems
+3,Depression,Depression,Depression,Sleep Prolems
+4,Inattention,Inattention,Irritability,Irritability
+5,Non primarily aggressive conduct problems,Anxiety,ADHD,Anxiety
+6,Academic Difficulty,Somatization,Academic Difficulty,Defiance
+7,Anxiety,Two-Parent Household,Adoptionor or FosterCare,Family-relationships Difficulties 
+8,Hyperactivity and Impulsivity symptoms,Defiance,Age,ADHD
+9,Two-Parent Household,Irritability,Anxiety,Academic Difficulty
+10,Sleep Prolems,Family-relationships Difficulties ,Aggressive marital practices,Adoptionor or FosterCare
+11,Somatization,Hyperactivity and Impulsivity symptoms,Aggressive parenting practices,Age
+12,Irritability,Social Withdrawal,Child Welfare Services ,Aggressive marital practices
+13,Defiance,Wechsler Full Scale IQ,Defiance,Aggressive parenting practices
+14,Family-relationships Difficulties ,Verbal cognitive performance,Family-relationships Difficulties ,Child Welfare Services 
+15,Social Conflicts,Age,Financial problems,Financial problems
+16,ADHD,School Truancy,Wechsler Full Scale IQ,Wechsler Full Scale IQ
+17,Age,Non- verbal cognitive performance,A history of head concussion ,A history of head concussion 
+18,Financial problems,Academic Difficulty,Hyperactivity and Impulsivity symptoms,Hyperactivity and Impulsivity symptoms
+19,Sex,Aggressive marital practices,Inattention,Inattention
+20,Social Withdrawal,Child Welfare Services ,School Truancy,School Truancy
+21,School Truancy,Social Conflicts,Sex,Sex
+22,Current stimulant medication use ,ADHD,Social Conflicts,Social Conflicts
+23,Aggressive marital practices,Aggressive parenting practices,Social Withdrawal,Social Withdrawal
+24,Aggressive parenting practices,Current stimulant medication use ,Somatization,Somatization
+25,Child Welfare Services ,Financial problems,Current stimulant medication use ,Current stimulant medication use 
+26,A history of head concussion ,Sex,Two-Parent Household,Two-Parent Household
+27,Wechsler Full Scale IQ,Adoptionor or FosterCare,Non- verbal cognitive performance,Non- verbal cognitive performance
+28,Adoptionor or FosterCare,A history of head concussion ,Verbal cognitive performance,Verbal cognitive performance
+
+l1
+gb
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+xgb
+rf
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:114: UserWarning: 
+
+The `join` parameter is deprecated and will be removed in v0.15.0. You can remove the line between points with `linestyle='none'`.
+
+  g = sns.pointplot(y='feature_name', x='imp', ci='sd', order=feature_names_order,
+loading for ParentSelfIdea
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:152: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='value', x='num_features', ci='sd', hue='test_type', hue_order=tests,
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:150: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  fig, ax = plt.subplots(1, figsize=(12, 6))
+c:\users\hadasbe\dropbox (personal)\cstg_psych\mika\main_mika.py:152: FutureWarning: 
+
+The `ci` parameter is deprecated. Use `errorbar='sd'` for the same effect.
+
+  g = sns.pointplot(y='value', x='num_features', ci='sd', hue='test_type', hue_order=tests,
+l1 & 0.66 ($\pm$ 0.01) & 0.52 ($\pm$ 0.52)
+gb & 0.69 ($\pm$ 0.01) & 0.54 ($\pm$ 0.54)
+xgb & 0.66 ($\pm$ 0.01) & 0.47 ($\pm$ 0.47)
+rf & 0.67 ($\pm$ 0.01) & 0.50 ($\pm$ 0.50)
+,l1,gb,xgb,rf
+0,Non- verbal cognitive performance,Non primarily aggressive conduct problems,Non primarily aggressive conduct problems,Non primarily aggressive conduct problems
+1,Verbal cognitive performance,Depression,Aggresive Conduct Problems,Depression
+2,Depression,Aggresive Conduct Problems,Depression,Aggresive Conduct Problems
+3,Non primarily aggressive conduct problems,Age,Irritability,Irritability
+4,Inattention,Defiance,Defiance,Defiance
+5,Social Conflicts,Sleep Prolems,Age,Family-relationships Difficulties 
+6,Aggresive Conduct Problems,Irritability,ADHD,Sleep Prolems
+7,Hyperactivity and Impulsivity symptoms,Family-relationships Difficulties ,Academic Difficulty,Anxiety
+8,Defiance,Anxiety,Adoptionor or FosterCare,ADHD
+9,Somatization,Inattention,Anxiety,Academic Difficulty
+10,Academic Difficulty,Somatization,Aggressive marital practices,Adoptionor or FosterCare
+11,Age,Hyperactivity and Impulsivity symptoms,Aggressive parenting practices,Age
+12,Sleep Prolems,Verbal cognitive performance,Child Welfare Services ,Aggressive marital practices
+13,ADHD,Wechsler Full Scale IQ,Family-relationships Difficulties ,Aggressive parenting practices
+14,Two-Parent Household,Social Withdrawal,Financial problems,Child Welfare Services 
+15,Family-relationships Difficulties ,Two-Parent Household,Wechsler Full Scale IQ,Financial problems
+16,Irritability,Non- verbal cognitive performance,A history of head concussion ,Wechsler Full Scale IQ
+17,Current stimulant medication use ,School Truancy,Hyperactivity and Impulsivity symptoms,A history of head concussion 
+18,Anxiety,Academic Difficulty,Inattention,Hyperactivity and Impulsivity symptoms
+19,Aggressive marital practices,Aggressive marital practices,School Truancy,Inattention
+20,Financial problems,ADHD,Sex,School Truancy
+21,School Truancy,Child Welfare Services ,Sleep Prolems,Sex
+22,Social Withdrawal,Aggressive parenting practices,Social Conflicts,Social Conflicts
+23,Aggressive parenting practices,Social Conflicts,Social Withdrawal,Social Withdrawal
+24,A history of head concussion ,Current stimulant medication use ,Somatization,Somatization
+25,Sex,Financial problems,Current stimulant medication use ,Current stimulant medication use 
+26,Child Welfare Services ,Sex,Two-Parent Household,Two-Parent Household
+27,Wechsler Full Scale IQ,A history of head concussion ,Non- verbal cognitive performance,Non- verbal cognitive performance
+28,Adoptionor or FosterCare,Adoptionor or FosterCare,Verbal cognitive performance,Verbal cognitive performance
+

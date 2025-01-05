@@ -1,0 +1,36 @@
+name,type,vartype,varclass,dim,nclass
+Age,pos,cov,Demographic,1,1
+Sex,cat,cov,Demographic,2,2
+Financial_problems,bin,cov,Socioeconomic ,1,1
+Two_Parents_Household,bin,cov,Socioeconomic ,1,1
+Adoptionor_FosterCare,bin,cov,Socioeconomic ,1,1
+Childrens_Aid_Service,bin,cov,Socioeconomic ,1,1
+Family_Relationship_Difficulties,ord,cov,Family,5,5
+Between_Caregivers_Violence,bin,cov,Family,1,1
+Caregiver_To_Child_Violence,ord,cov,Family,3,3
+Head_Injury,bin,cov,Medical,1,1
+Stimulant_Meds,bin,cov,Medical,1,1
+Full_Scale_IQ,pos,cov,Cognitive,1,1
+rounded_WISC_Vocabulary,ord,cov,Cognitive,19,21
+WISC_BlockDesign,ord,cov,Cognitive,19,21
+Social_Withdrawal,ord,cov,Functioning,3,3
+Social_Conflicts,ord,cov,Functioning,5,5
+Academic_Difficulty,ord,cov,Functioning,5,5
+School_Truancy,ord,cov,Functioning,3,3
+Depression,ord,cov,Mental,14,14
+Inattention,ord,cov,Mental,7,7
+Hyperactivity_Impulsivity,ord,cov,Mental,9,9
+Irritability,ord,cov,Mental,7,7
+Defiance,ord,cov,Mental,9,9
+NonAggresive_Conduct_Problems,ord,cov,Mental,13,15
+Aggresive_Conduct_Problems,ord,cov,Mental,11,11
+Anxiety,ord,cov,Mental,11,11
+Sleep_Prolems,ord,cov,Mental,7,7
+Somatization,ord,cov,Mental,13,13
+ADHD_Dx,bin,cov,Mental,1,1
+Parent_Reported_Suicidality,bin,outcome,Suicidality,1,1
+Parent_Reported_SI,bin,outcome,Suicidality,1,1
+Parent_Reported_SB,bin,outcome,Suicidality,1,1
+Self_Reported_Sl,bin,outcome,Suicidality,1,1
+ParentSelfIdea,bin,outcome,Suicidality,1,1
+ParentActSelfIdea,bin,outcome,Suicidality,1,1
